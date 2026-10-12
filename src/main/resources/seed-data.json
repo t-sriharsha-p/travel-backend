@@ -1,0 +1,243 @@
+[
+  {
+    "name": "Jaipur", "state": "Rajasthan", "region": "North",
+    "tagline": "The Pink City of palaces and forts",
+    "description": "Jaipur is the capital of Rajasthan and a cornerstone of the Golden Triangle. Its hilltop forts, royal palaces, bustling bazaars and vivid Rajasthani cuisine make it one of India's most rewarding heritage destinations.",
+    "bestTimeToVisit": "October to March", "tags": "Heritage,Shopping,Food",
+    "places": [
+      {"name": "Amber Fort", "category": "Heritage", "visitDuration": "3 hours", "description": "A hilltop fort-palace with mirrored halls and sweeping views over Maota Lake."},
+      {"name": "City Palace", "category": "Heritage", "visitDuration": "2 hours", "description": "The royal residence blending Rajput and Mughal architecture, with museums and courtyards."},
+      {"name": "Hawa Mahal", "category": "Heritage", "visitDuration": "1 hour", "description": "The honeycombed 'Palace of Winds' facade, best photographed in the morning light."},
+      {"name": "Nahargarh Fort", "category": "Adventure", "visitDuration": "2 hours", "description": "A ridge-top fort with sunset views over the whole city."},
+      {"name": "Jantar Mantar", "category": "Heritage", "visitDuration": "1 hour", "description": "A UNESCO-listed collection of giant 18th-century astronomical instruments."},
+      {"name": "Johari Bazaar", "category": "Shopping", "visitDuration": "2 hours", "description": "A traditional market famous for jewellery, textiles and block-printed fabrics."}
+    ],
+    "hotels": [
+      {"name": "Hotel Pearl Palace", "priceCategory": "BUDGET", "approxPricePerNight": 2000, "description": "Popular budget guesthouse with a rooftop restaurant and friendly service."},
+      {"name": "Alsisar Haveli", "priceCategory": "MID", "approxPricePerNight": 6500, "description": "A restored heritage haveli with courtyards and a pool."},
+      {"name": "Rambagh Palace", "priceCategory": "LUXURY", "approxPricePerNight": 40000, "description": "The former Maharaja's residence, now an iconic palace hotel."}
+    ],
+    "restaurants": [
+      {"name": "Laxmi Misthan Bhandar (LMB)", "cuisine": "Rajasthani", "foodType": "VEG", "priceCategory": "MID", "specialty": "Pyaaz kachori, thali and sweets", "description": "A Johari Bazaar institution for vegetarian food and mithai."},
+      {"name": "Chokhi Dhani", "cuisine": "Rajasthani", "foodType": "VEG", "priceCategory": "MID", "specialty": "Dal baati churma village-style thali", "description": "An ethnic village resort with folk performances and a traditional meal."},
+      {"name": "Handi Restaurant", "cuisine": "Mughlai", "foodType": "NON_VEG", "priceCategory": "BUDGET", "specialty": "Laal maas and butter chicken", "description": "A long-running spot for rich North Indian curries."},
+      {"name": "Rawat Mishthan Bhandar", "cuisine": "Street food", "foodType": "VEG", "priceCategory": "BUDGET", "specialty": "Pyaaz kachori and mawa kachori", "description": "Famous for flaky kachoris."}
+    ]
+  },
+  {
+    "name": "Goa", "state": "Goa", "region": "West",
+    "tagline": "Beaches, Portuguese heritage and nightlife",
+    "description": "Goa is India's beach capital, mixing lively sands and nightlife in the north with quiet coves in the south. Old Goa's churches and the fort at Aguada reflect centuries of Portuguese rule, while the seafood is a highlight.",
+    "bestTimeToVisit": "November to February", "tags": "Beaches,Nightlife,Relaxation,Food,Heritage",
+    "places": [
+      {"name": "Baga Beach", "category": "Beaches", "visitDuration": "3 hours", "description": "A lively beach with water sports, shacks and nightlife nearby."},
+      {"name": "Basilica of Bom Jesus", "category": "Heritage", "visitDuration": "1.5 hours", "description": "A UNESCO-listed baroque church in Old Goa."},
+      {"name": "Fort Aguada", "category": "Heritage", "visitDuration": "1.5 hours", "description": "A 17th-century Portuguese fort with a lighthouse and sea views."},
+      {"name": "Dudhsagar Falls", "category": "Adventure", "visitDuration": "5 hours", "description": "A four-tiered waterfall reached by a jeep safari through forest; best after the monsoon."},
+      {"name": "Palolem Beach", "category": "Relaxation", "visitDuration": "3 hours", "description": "A calm crescent beach in South Goa, ideal for unwinding."},
+      {"name": "Anjuna Flea Market", "category": "Shopping", "visitDuration": "2 hours", "description": "A weekly market for handicrafts, clothes and souvenirs."}
+    ],
+    "hotels": [
+      {"name": "Zostel Goa", "priceCategory": "BUDGET", "approxPricePerNight": 1200, "description": "A social hostel with dorms and private rooms near the beaches."},
+      {"name": "Taj Fort Aguada Resort & Spa", "priceCategory": "LUXURY", "approxPricePerNight": 22000, "description": "A clifftop resort overlooking the Arabian Sea."},
+      {"name": "Alila Diwa Goa", "priceCategory": "LUXURY", "approxPricePerNight": 15000, "description": "A resort set among paddy fields in South Goa."}
+    ],
+    "restaurants": [
+      {"name": "Britto's", "cuisine": "Goan seafood", "foodType": "BOTH", "priceCategory": "MID", "specialty": "Fish curry rice and grilled seafood", "description": "A beachside classic at Baga."},
+      {"name": "Fisherman's Wharf", "cuisine": "Goan seafood", "foodType": "NON_VEG", "priceCategory": "MID", "specialty": "Prawn balchao and fish recheado", "description": "Riverside dining with Goan seafood."},
+      {"name": "Vinayak Family Restaurant", "cuisine": "Goan", "foodType": "NON_VEG", "priceCategory": "BUDGET", "specialty": "Xacuti and sorpotel", "description": "Home-style Goan food in Assagao."},
+      {"name": "Thalassa", "cuisine": "Greek", "foodType": "BOTH", "priceCategory": "MID", "specialty": "Greek mezze with a sunset view", "description": "A Greek taverna on the Vagator cliffs."}
+    ]
+  },
+  {
+    "name": "Kerala", "state": "Kerala", "region": "South",
+    "tagline": "Backwaters, tea hills and spice trails",
+    "description": "Kerala, 'God's Own Country', offers palm-fringed backwaters, misty tea plantations in Munnar, wildlife in Periyar and the colonial charm of Fort Kochi. The cuisine is built on coconut, spices and fresh seafood.",
+    "bestTimeToVisit": "September to March", "tags": "Nature,Relaxation,Wildlife,Beaches,Food,Heritage",
+    "places": [
+      {"name": "Alleppey Backwaters", "category": "Relaxation", "visitDuration": "Half to full day", "description": "Cruise the canals on a houseboat or shikara past villages and paddy fields."},
+      {"name": "Munnar Tea Gardens", "category": "Nature", "visitDuration": "Full day", "description": "Rolling hills of tea estates, viewpoints and cool weather."},
+      {"name": "Fort Kochi", "category": "Heritage", "visitDuration": "4 hours", "description": "Chinese fishing nets, Dutch and Portuguese buildings and art cafes."},
+      {"name": "Periyar Wildlife Sanctuary", "category": "Wildlife", "visitDuration": "Half day", "description": "A reserve around Periyar Lake, known for elephants and boat safaris."},
+      {"name": "Kovalam Beach", "category": "Beaches", "visitDuration": "3 hours", "description": "A crescent beach near Thiruvananthapuram with a lighthouse."}
+    ],
+    "hotels": [
+      {"name": "Fort Kochi Heritage Homestay (generic listing)", "priceCategory": "BUDGET", "approxPricePerNight": 1800, "description": "Typical homestays in Fort Kochi offer simple rooms and home-cooked Kerala food."},
+      {"name": "Backwater Houseboat Stay, Alleppey (generic listing)", "priceCategory": "MID", "approxPricePerNight": 9000, "description": "An overnight houseboat with meals; price varies a lot by season and size."},
+      {"name": "Taj Malabar Resort & Spa, Kochi", "priceCategory": "LUXURY", "approxPricePerNight": 14000, "description": "A waterfront luxury hotel on Willingdon Island."}
+    ],
+    "restaurants": [
+      {"name": "Kashi Art Cafe", "cuisine": "Cafe", "foodType": "BOTH", "priceCategory": "MID", "specialty": "Coffee, cakes and light meals", "description": "A gallery cafe in Fort Kochi."},
+      {"name": "Dhe Puttu", "cuisine": "Kerala", "foodType": "BOTH", "priceCategory": "BUDGET", "specialty": "Puttu with varied curries", "description": "A casual restaurant built around puttu."},
+      {"name": "Paragon Restaurant", "cuisine": "Malabar", "foodType": "NON_VEG", "priceCategory": "MID", "specialty": "Malabar biryani and seafood", "description": "A well-known Kerala seafood and biryani restaurant."}
+    ]
+  },
+  {
+    "name": "Varanasi", "state": "Uttar Pradesh", "region": "North",
+    "tagline": "The spiritual heart of India on the Ganga",
+    "description": "Varanasi is among the world's oldest living cities and a major pilgrimage site for Hindus. Dawn boat rides, the evening Ganga aarti, narrow lanes of temples and a rich street-food culture define a visit.",
+    "bestTimeToVisit": "October to March", "tags": "Spiritual,Heritage,Food",
+    "places": [
+      {"name": "Dashashwamedh Ghat", "category": "Spiritual", "visitDuration": "2 hours", "description": "The main ghat, famous for its grand evening Ganga aarti."},
+      {"name": "Kashi Vishwanath Temple", "category": "Spiritual", "visitDuration": "2 hours", "description": "One of the most revered Shiva temples; expect queues and security checks."},
+      {"name": "Sarnath", "category": "Heritage", "visitDuration": "3 hours", "description": "Where the Buddha gave his first sermon; stupas, ruins and a museum."},
+      {"name": "Assi Ghat", "category": "Spiritual", "visitDuration": "1.5 hours", "description": "A calmer ghat for sunrise, yoga and cafes."},
+      {"name": "Ramnagar Fort", "category": "Heritage", "visitDuration": "1.5 hours", "description": "An 18th-century fort across the river, with a small museum."}
+    ],
+    "hotels": [
+      {"name": "Zostel Varanasi", "priceCategory": "BUDGET", "approxPricePerNight": 1000, "description": "A backpacker hostel with a social atmosphere."},
+      {"name": "Ganges View Hotel", "priceCategory": "MID", "approxPricePerNight": 5500, "description": "A heritage-style hotel near Assi Ghat."},
+      {"name": "Brijrama Palace", "priceCategory": "LUXURY", "approxPricePerNight": 30000, "description": "A restored palace on the ghats."}
+    ],
+    "restaurants": [
+      {"name": "Kashi Chat Bhandar", "cuisine": "Street food", "foodType": "VEG", "priceCategory": "BUDGET", "specialty": "Tamatar chaat and aloo tikki", "description": "A legendary chaat shop."},
+      {"name": "Blue Lassi", "cuisine": "Beverages", "foodType": "VEG", "priceCategory": "BUDGET", "specialty": "Fruit and curd lassi", "description": "A tiny shop known for thick lassis."},
+      {"name": "Deena Chat Bhandar", "cuisine": "Street food", "foodType": "VEG", "priceCategory": "BUDGET", "specialty": "Chaat and sweets", "description": "A local favourite for evening snacks."}
+    ]
+  },
+  {
+    "name": "Delhi", "state": "Delhi", "region": "North",
+    "tagline": "Mughal monuments and street-food adventures",
+    "description": "India's capital layers centuries of history, from the Mughal-era Red Fort and Humayun's Tomb to Lutyens' New Delhi. It is also one of the country's best food cities.",
+    "bestTimeToVisit": "October to March", "tags": "Heritage,Food,Shopping,Spiritual",
+    "places": [
+      {"name": "Red Fort", "category": "Heritage", "visitDuration": "2 hours", "description": "The 17th-century Mughal fort, a UNESCO World Heritage Site."},
+      {"name": "Qutub Minar", "category": "Heritage", "visitDuration": "1.5 hours", "description": "A soaring 13th-century minaret complex."},
+      {"name": "India Gate", "category": "Heritage", "visitDuration": "1 hour", "description": "A war memorial arch, lovely in the evening."},
+      {"name": "Humayun's Tomb", "category": "Heritage", "visitDuration": "2 hours", "description": "A garden tomb that inspired the Taj Mahal's design."},
+      {"name": "Lotus Temple", "category": "Spiritual", "visitDuration": "1 hour", "description": "A lotus-shaped Baha'i House of Worship open to all."},
+      {"name": "Chandni Chowk", "category": "Food", "visitDuration": "3 hours", "description": "Old Delhi's market lanes packed with street food and shops."}
+    ],
+    "hotels": [
+      {"name": "Zostel Delhi", "priceCategory": "BUDGET", "approxPricePerNight": 1100, "description": "A hostel with dorms and private rooms."},
+      {"name": "The Broadway Hotel", "priceCategory": "MID", "approxPricePerNight": 4500, "description": "A well-located hotel near Old Delhi."},
+      {"name": "The Imperial", "priceCategory": "LUXURY", "approxPricePerNight": 25000, "description": "A heritage luxury hotel in central Delhi."}
+    ],
+    "restaurants": [
+      {"name": "Karim's", "cuisine": "Mughlai", "foodType": "NON_VEG", "priceCategory": "BUDGET", "specialty": "Mutton burra and korma", "description": "A historic Old Delhi eatery near Jama Masjid."},
+      {"name": "Paranthe Wali Gali", "cuisine": "North Indian", "foodType": "VEG", "priceCategory": "BUDGET", "specialty": "Stuffed parathas", "description": "A lane of parantha shops in Chandni Chowk."},
+      {"name": "Indian Accent", "cuisine": "Modern Indian", "foodType": "BOTH", "priceCategory": "LUXURY", "specialty": "Tasting menus", "description": "A fine-dining restaurant."},
+      {"name": "Bukhara", "cuisine": "North-West Frontier", "foodType": "NON_VEG", "priceCategory": "LUXURY", "specialty": "Dal Bukhara and tandoori", "description": "A famous fine-dining tandoor restaurant."}
+    ]
+  },
+  {
+    "name": "Agra", "state": "Uttar Pradesh", "region": "North",
+    "tagline": "Home of the Taj Mahal",
+    "description": "Agra's Mughal heritage includes the Taj Mahal, Agra Fort and the abandoned city of Fatehpur Sikri. A day or two is enough to cover the main sights.",
+    "bestTimeToVisit": "October to March", "tags": "Heritage,Food,Shopping",
+    "places": [
+      {"name": "Taj Mahal", "category": "Heritage", "visitDuration": "3 hours", "description": "The marble mausoleum built by Shah Jahan; closed on Fridays, best at sunrise."},
+      {"name": "Agra Fort", "category": "Heritage", "visitDuration": "2 hours", "description": "A red sandstone fort with palaces and views of the Taj."},
+      {"name": "Fatehpur Sikri", "category": "Heritage", "visitDuration": "3 hours", "description": "Akbar's abandoned red-sandstone capital, about 40 km from Agra."},
+      {"name": "Mehtab Bagh", "category": "Nature", "visitDuration": "1 hour", "description": "A garden across the Yamuna with a sunset view of the Taj."},
+      {"name": "Itimad-ud-Daulah", "category": "Heritage", "visitDuration": "1 hour", "description": "An ornate tomb often called the 'Baby Taj'."}
+    ],
+    "hotels": [
+      {"name": "Zostel Agra", "priceCategory": "BUDGET", "approxPricePerNight": 1000, "description": "A hostel close to the Taj area."},
+      {"name": "Hotel Clarks Shiraz", "priceCategory": "MID", "approxPricePerNight": 6000, "description": "A long-standing mid-range hotel."},
+      {"name": "The Oberoi Amarvilas", "priceCategory": "LUXURY", "approxPricePerNight": 50000, "description": "A luxury hotel with Taj views."}
+    ],
+    "restaurants": [
+      {"name": "Joney's Place", "cuisine": "Multi-cuisine", "foodType": "BOTH", "priceCategory": "BUDGET", "specialty": "Banana lassi and travellers' favourites", "description": "A cafe popular with backpackers."},
+      {"name": "Pinch of Spice", "cuisine": "North Indian", "foodType": "BOTH", "priceCategory": "MID", "specialty": "Tandoori and curries", "description": "A popular family restaurant."},
+      {"name": "Mama Chicken Mama Franky House", "cuisine": "Mughlai", "foodType": "NON_VEG", "priceCategory": "BUDGET", "specialty": "Chicken curries", "description": "A Sadar Bazaar favourite."}
+    ]
+  },
+  {
+    "name": "Manali", "state": "Himachal Pradesh", "region": "North",
+    "tagline": "Himalayan adventure and mountain calm",
+    "description": "Manali sits in the Beas valley and is a base for snow, trekking, paragliding and river rafting. Old Manali offers cafes and a relaxed vibe.",
+    "bestTimeToVisit": "March to June for pleasant weather; December to February for snow", "tags": "Adventure,Nature,Relaxation,Spiritual",
+    "places": [
+      {"name": "Solang Valley", "category": "Adventure", "visitDuration": "Half day", "description": "Paragliding, zorbing and skiing depending on the season."},
+      {"name": "Rohtang Pass", "category": "Nature", "visitDuration": "Full day", "description": "A high mountain pass with snow views; a permit is needed and access depends on the season and weather."},
+      {"name": "Hadimba Temple", "category": "Spiritual", "visitDuration": "1 hour", "description": "A wooden temple among deodar trees."},
+      {"name": "Old Manali", "category": "Relaxation", "visitDuration": "3 hours", "description": "Cafes, bridges and riverside walks."},
+      {"name": "Jogini Waterfall", "category": "Nature", "visitDuration": "2 hours", "description": "A short trek from Vashisht to a mountain waterfall."}
+    ],
+    "hotels": [
+      {"name": "Zostel Manali", "priceCategory": "BUDGET", "approxPricePerNight": 1000, "description": "A hostel in Old Manali."},
+      {"name": "Johnson Lodge", "priceCategory": "MID", "approxPricePerNight": 6000, "description": "A cosy lodge with garden cottages."},
+      {"name": "Span Resort & Spa", "priceCategory": "LUXURY", "approxPricePerNight": 15000, "description": "A riverside resort on the Beas."}
+    ],
+    "restaurants": [
+      {"name": "Johnson's Cafe", "cuisine": "Continental", "foodType": "BOTH", "priceCategory": "MID", "specialty": "Grilled trout", "description": "A garden cafe in Manali."},
+      {"name": "Cafe 1947", "cuisine": "Cafe", "foodType": "BOTH", "priceCategory": "MID", "specialty": "Riverside breakfast and live music", "description": "A popular cafe in Old Manali."},
+      {"name": "Chopsticks Restaurant", "cuisine": "Tibetan and Chinese", "foodType": "BOTH", "priceCategory": "BUDGET", "specialty": "Momos and thukpa", "description": "A casual spot for Himalayan comfort food."}
+    ]
+  },
+  {
+    "name": "Hyderabad", "state": "Telangana", "region": "South",
+    "tagline": "Nizami heritage, biryani and pearls",
+    "description": "Hyderabad is known for the Charminar, Golconda Fort and Nizam-era palaces, plus a world-famous biryani culture and a modern tech skyline.",
+    "bestTimeToVisit": "October to February", "tags": "Heritage,Food,Shopping",
+    "places": [
+      {"name": "Charminar", "category": "Heritage", "visitDuration": "1.5 hours", "description": "The 16th-century monument at the heart of the old city, beside Laad Bazaar."},
+      {"name": "Golconda Fort", "category": "Heritage", "visitDuration": "3 hours", "description": "A hilltop fortress known for its acoustics and evening sound-and-light show."},
+      {"name": "Chowmahalla Palace", "category": "Heritage", "visitDuration": "2 hours", "description": "The Nizams' palace complex with courtyards and a vintage car collection."},
+      {"name": "Hussain Sagar Lake", "category": "Relaxation", "visitDuration": "2 hours", "description": "A large lake with the Buddha statue and a promenade."},
+      {"name": "Ramoji Film City", "category": "Adventure", "visitDuration": "Full day", "description": "A huge film studio complex with tours and shows."},
+      {"name": "Laad Bazaar", "category": "Shopping", "visitDuration": "2 hours", "description": "A market for bangles, pearls and traditional crafts near Charminar."}
+    ],
+    "hotels": [
+      {"name": "Budget stay near Abids (generic listing)", "priceCategory": "BUDGET", "approxPricePerNight": 1800, "description": "Many simple hotels around Abids and Nampally, convenient for the old city."},
+      {"name": "Lemon Tree Hotel, HITEC City", "priceCategory": "MID", "approxPricePerNight": 5500, "description": "A modern mid-range hotel in the tech district."},
+      {"name": "Taj Falaknuma Palace", "priceCategory": "LUXURY", "approxPricePerNight": 55000, "description": "A former Nizam palace on a hill, now a luxury hotel."}
+    ],
+    "restaurants": [
+      {"name": "Paradise Biryani", "cuisine": "Hyderabadi", "foodType": "NON_VEG", "priceCategory": "MID", "specialty": "Hyderabadi dum biryani", "description": "One of the city's best-known biryani chains."},
+      {"name": "Shah Ghouse", "cuisine": "Hyderabadi", "foodType": "NON_VEG", "priceCategory": "BUDGET", "specialty": "Haleem and biryani", "description": "A local favourite for haleem in season."},
+      {"name": "Chutneys", "cuisine": "South Indian", "foodType": "VEG", "priceCategory": "MID", "specialty": "Dosa and chutney varieties", "description": "A vegetarian restaurant known for its chutneys."},
+      {"name": "Cafe Niloufer", "cuisine": "Cafe", "foodType": "BOTH", "priceCategory": "BUDGET", "specialty": "Irani chai and Osmania biscuits", "description": "A classic Hyderabadi tea stop."}
+    ]
+  },
+  {
+    "name": "Mumbai", "state": "Maharashtra", "region": "West",
+    "tagline": "The city that never sleeps",
+    "description": "Mumbai combines colonial architecture, Bollywood, sea-facing promenades and a large street-food scene. Elephanta Caves and Sanjay Gandhi National Park offer a break from the city.",
+    "bestTimeToVisit": "November to February", "tags": "Heritage,Food,Nightlife,Shopping,Nature",
+    "places": [
+      {"name": "Gateway of India", "category": "Heritage", "visitDuration": "1 hour", "description": "The waterfront arch and starting point for Elephanta boats."},
+      {"name": "Marine Drive", "category": "Relaxation", "visitDuration": "1.5 hours", "description": "A curved seafront promenade, lovely at sunset."},
+      {"name": "Elephanta Caves", "category": "Heritage", "visitDuration": "Half day", "description": "Rock-cut cave temples on an island, reached by ferry."},
+      {"name": "Chhatrapati Shivaji Maharaj Terminus", "category": "Heritage", "visitDuration": "1 hour", "description": "A Victorian Gothic railway station and UNESCO World Heritage Site."},
+      {"name": "Sanjay Gandhi National Park", "category": "Nature", "visitDuration": "Half day", "description": "A forested park within the city, home to the Kanheri Caves."},
+      {"name": "Colaba Causeway", "category": "Shopping", "visitDuration": "2 hours", "description": "A busy street market for clothes, jewellery and souvenirs."}
+    ],
+    "hotels": [
+      {"name": "YMCA International House", "priceCategory": "BUDGET", "approxPricePerNight": 3000, "description": "A simple, central option in the Fort area."},
+      {"name": "Hotel Suba Palace", "priceCategory": "MID", "approxPricePerNight": 7000, "description": "A hotel near the Gateway of India."},
+      {"name": "The Taj Mahal Palace", "priceCategory": "LUXURY", "approxPricePerNight": 30000, "description": "The iconic heritage hotel facing the Gateway."}
+    ],
+    "restaurants": [
+      {"name": "Leopold Cafe", "cuisine": "Multi-cuisine", "foodType": "BOTH", "priceCategory": "MID", "specialty": "Beer, grills and travellers' favourites", "description": "A well-known Colaba cafe."},
+      {"name": "Britannia & Co.", "cuisine": "Parsi", "foodType": "BOTH", "priceCategory": "MID", "specialty": "Berry pulao", "description": "A classic Irani-Parsi restaurant in Ballard Estate."},
+      {"name": "Trishna", "cuisine": "Seafood", "foodType": "NON_VEG", "priceCategory": "LUXURY", "specialty": "Butter pepper garlic crab", "description": "A renowned seafood restaurant."},
+      {"name": "Swati Snacks", "cuisine": "Gujarati", "foodType": "VEG", "priceCategory": "BUDGET", "specialty": "Panki and chaat", "description": "A popular vegetarian snack restaurant."}
+    ]
+  },
+  {
+    "name": "Udaipur", "state": "Rajasthan", "region": "North",
+    "tagline": "The City of Lakes",
+    "description": "Udaipur is known for its palaces reflected in Lake Pichola, romantic rooftop restaurants and Mewar heritage. It is slower and more relaxed than other Rajasthan cities.",
+    "bestTimeToVisit": "October to March", "tags": "Heritage,Relaxation,Food,Shopping",
+    "places": [
+      {"name": "City Palace Udaipur", "category": "Heritage", "visitDuration": "2.5 hours", "description": "A grand palace complex on the lake shore, with museums and views."},
+      {"name": "Lake Pichola Boat Ride", "category": "Relaxation", "visitDuration": "1 hour", "description": "A sunset cruise past the Lake Palace and Jag Mandir."},
+      {"name": "Jag Mandir", "category": "Heritage", "visitDuration": "2 hours", "description": "A lake palace on an island, reachable by boat."},
+      {"name": "Saheliyon ki Bari", "category": "Nature", "visitDuration": "1 hour", "description": "A garden with fountains built for royal women."},
+      {"name": "Sajjangarh Monsoon Palace", "category": "Nature", "visitDuration": "2 hours", "description": "A hilltop palace with panoramic sunset views."}
+    ],
+    "hotels": [
+      {"name": "Zostel Udaipur", "priceCategory": "BUDGET", "approxPricePerNight": 1100, "description": "A hostel near the old city."},
+      {"name": "Lake Pichola Hotel", "priceCategory": "MID", "approxPricePerNight": 6000, "description": "A lakeside hotel with views of the City Palace."},
+      {"name": "Taj Lake Palace", "priceCategory": "LUXURY", "approxPricePerNight": 45000, "description": "A marble palace hotel in the middle of Lake Pichola."},
+      {"name": "The Oberoi Udaivilas", "priceCategory": "LUXURY", "approxPricePerNight": 40000, "description": "A palace-style resort on the lake."}
+    ],
+    "restaurants": [
+      {"name": "Ambrai", "cuisine": "Rajasthani and North Indian", "foodType": "BOTH", "priceCategory": "MID", "specialty": "Lakeside dinner with palace views", "description": "A restaurant on the edge of Lake Pichola."},
+      {"name": "Natraj Dining Hall", "cuisine": "Rajasthani", "foodType": "VEG", "priceCategory": "BUDGET", "specialty": "Unlimited Rajasthani thali", "description": "A no-frills thali restaurant."},
+      {"name": "Upre by 1559 AD", "cuisine": "Multi-cuisine", "foodType": "BOTH", "priceCategory": "MID", "specialty": "Rooftop dining with lake views", "description": "A rooftop restaurant near the lake."}
+    ]
+  }
+]
